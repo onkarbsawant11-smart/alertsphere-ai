@@ -1,0 +1,6 @@
+{
+  "name": "AlertSphere AI — Disaster Early-Warning & Response System",
+  "description": "AI-powered disaster early-warning, response, and recovery system with real-time hazard mapping, emergency copilot, responder command center, and simulation lab.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
